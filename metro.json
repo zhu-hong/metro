@@ -1,0 +1,672 @@
+{
+  "width": "2000",
+  "height": "1115",
+  "date": "2023-10-14",
+  "line": [
+    {
+      "name": "一号线",
+      "stations": [
+        {
+          "position": [96,205],
+          "name": "高桥西",
+          "namepos": "t"
+        },
+        {
+          "position": [168,280],
+          "name": "高桥",
+          "namepos": "b"
+        },
+        {
+          "position": [251,280],
+          "name": "梁祝",
+          "namepos": "t"
+        },
+        {
+          "position": [351,280],
+          "name": "芦港",
+          "namepos": "t"
+        },
+        {
+          "position": [387,315],
+          "name": "徐家漕长乐",
+          "namepos": "bl"
+        },
+        {
+          "position": [425,353],
+          "name": "望春桥",
+          "namepos": "tr"
+        },
+        {
+          "position": [477,404],
+          "name": "泽民",
+          "namepos": "bl"
+        },
+        {
+          "position": [518,446],
+          "name": "大卿桥",
+          "namepos": "bl"
+        },
+        {
+          "position": [553,481],
+          "name": "西门口",
+          "namepos": "tr"
+        },
+        {
+          "position": [591,520],
+          "name": "鼓楼",
+          "namepos": "br"
+        },
+        {
+          "position": [693,520],
+          "name": "东门口",
+          "namepos": "t"
+        },
+        {
+          "position": [771,520],
+          "name": "江厦桥东",
+          "namepos": "t"
+        },
+        {
+          "position": [851,520],
+          "name": "舟孟北路",
+          "namepos": "t"
+        },
+        {
+          "position": [930,520],
+          "name": "樱花公园",
+          "namepos": "br"
+        },
+        {
+          "position": [1006,520],
+          "name": "福明路",
+          "namepos": "t"
+        },
+        {
+          "position": [1085,520],
+          "name": "世纪大道",
+          "namepos": "b"
+        },
+        {
+          "position": [1165,520],
+          "name": "海晏北路",
+          "namepos": "br"
+        },
+        {
+          "position": [1241,520],
+          "name": "福庆北路",
+          "namepos": "t"
+        },
+        {
+          "position": [1321,520],
+          "name": "盛莫路",
+          "namepos": "b"
+        },
+        {
+          "position": [1413,520],
+          "name": "东环南路",
+          "namepos": "t"
+        },
+        {
+          "position": [1497,520],
+          "name": "邱隘东",
+          "namepos": "b"
+        },
+        {
+          "position": [1550,467],
+          "name": "五乡",
+          "namepos": "br"
+        },
+        {
+          "position": [1590,425],
+          "name": "宝幢",
+          "namepos": "tl"
+        },
+        {
+          "position": [1633,381],
+          "name": "邬隘",
+          "namepos": "br"
+        },
+        {
+          "position": [1676,339],
+          "name": "大碶",
+          "namepos": "tl"
+        },
+        {
+          "position": [1722,295],
+          "name": "松花江路",
+          "namepos": "t"
+        },
+        {
+          "position": [1793,295],
+          "name": "中河路",
+          "namepos": "b"
+        },
+        {
+          "position": [1867,295],
+          "name": "长江路",
+          "namepos": "t"
+        },
+        {
+          "position": [1909,338],
+          "name": "霞浦",
+          "namepos": "b"
+        }
+      ],
+      "color": "#2ea1dd"
+    },
+    {
+      "name": "二号线",
+      "stations": [
+        {
+          "position": [96,947],
+          "name": "栎社国际机场",
+          "namepos": "t"
+        },
+        {
+          "position": [161,947],
+          "name": "栎社",
+          "namepos": "b"
+        },
+        {
+          "position": [207,900],
+          "name": "鄞州大道",
+          "namepos": "br"
+        },
+        {
+          "position": [253,855],
+          "name": "石碶",
+          "namepos": "br"
+        },
+        {
+          "position": [301,808],
+          "name": "轻纺城",
+          "namepos": "br"
+        },
+        {
+          "position": [343,766],
+          "name": "藕池",
+          "namepos": "tl"
+        },
+        {
+          "position": [387,721],
+          "name": "客运中心",
+          "namepos": "br"
+        },
+        {
+          "position": [428,681],
+          "name": "丽园南路",
+          "namepos": "tl"
+        },
+        {
+          "position": [471,638],
+          "name": "云霞路",
+          "namepos": "br"
+        },
+        {
+          "position": [518,590],
+          "name": "宁波火车站",
+          "namepos": "l"
+        },
+        {
+          "position": [557,552],
+          "name": "城隍庙",
+          "namepos": "br"
+        },
+        {
+          "position": [591,520],
+          "name": "鼓楼",
+          "namepos": "br"
+        },
+        {
+          "position": [665,445],
+          "name": "外滩大桥",
+          "namepos": "tl"
+        },
+        {
+          "position": [727,381],
+          "name": "正大路",
+          "namepos": "br"
+        },
+        {
+          "position": [792,316],
+          "name": "倪家堰",
+          "namepos": "tl"
+        },
+        {
+          "position": [854,254],
+          "name": "压赛堰",
+          "namepos": "tl"
+        },
+        {
+          "position": [930,206],
+          "name": "大通桥",
+          "namepos": "t"
+        },
+        {
+          "position": [1017,206],
+          "name": "孔浦",
+          "namepos": "b"
+        },
+        {
+          "position": [1059,163],
+          "name": "路林",
+          "namepos": "tl"
+        },
+        {
+          "position": [1098,124],
+          "name": "三官堂",
+          "namepos": "tl"
+        },
+        {
+          "position": [1176,124],
+          "name": "宁波大学",
+          "namepos": "t"
+        },
+        {
+          "position": [1250,124],
+          "name": "清水浦",
+          "namepos": "b"
+        },
+        {
+          "position": [1323,124],
+          "name": "五里牌",
+          "namepos": "t"
+        },
+        {
+          "position": [1400,124],
+          "name": "枫园",
+          "namepos": "b"
+        },
+        {
+          "position": [1472,124],
+          "name": "聪园路",
+          "namepos": "t"
+        },
+        {
+          "position": [1548,124],
+          "name": "招宝山",
+          "namepos": "b"
+        },
+        {
+          "position": [1624,124],
+          "name": "红联",
+          "namepos": "t"
+        }
+      ],
+      "color": "#e82315"
+    },
+    {
+      "name": "三号线",
+      "stations": [
+        {
+          "position": [296,1067],
+          "name": "金海路",
+          "namepos": "b"
+        },
+        {
+          "position": [335,1030],
+          "name": "大成东路",
+          "namepos": "t"
+        },
+        {
+          "position": [398,1030],
+          "name": "南渡",
+          "namepos": "b"
+        },
+        {
+          "position": [459,1030],
+          "name": "琎琳",
+          "namepos": "t"
+        },
+        {
+          "position": [525,1030],
+          "name": "方桥",
+          "namepos": "b"
+        },
+        {
+          "position": [585,1030],
+          "name": "朝阳",
+          "namepos": "t"
+        },
+        {
+          "position": [647,1030],
+          "name": "明辉路",
+          "namepos": "b"
+        },
+        {
+          "position": [708,1030],
+          "name": "狮山",
+          "namepos": "b"
+        },
+        {
+          "position": [747,991],
+          "name": "姜山",
+          "namepos": "r"
+        },
+        {
+          "position": [747,949],
+          "name": "高塘桥",
+          "namepos": "l"
+        },
+        {
+          "position": [747,910],
+          "name": "句章路",
+          "namepos": "r"
+        },
+        {
+          "position": [747,865],
+          "name": "鄞州客运总站",
+          "namepos": "r"
+        },
+        {
+          "position": [747,826],
+          "name": "南部商务区",
+          "namepos": "r"
+        },
+        {
+          "position": [747,777],
+          "name": "鄞州区政府",
+          "namepos": "tl"
+        },
+        {
+          "position": [747,705],
+          "name": "四明中路",
+          "namepos": "tl"
+        },
+        {
+          "position": [777,674],
+          "name": "锦寓路",
+          "namepos": "br"
+        },
+        {
+          "position": [807,643],
+          "name": "钱湖北路",
+          "namepos": "tl"
+        },
+        {
+          "position": [835,615],
+          "name": "仇毕",
+          "namepos": "br"
+        },
+        {
+          "position": [861,590],
+          "name": "儿童公园",
+          "namepos": "br"
+        },
+        {
+          "position": [930,520],
+          "name": "樱花公园",
+          "namepos": "br"
+        },
+        {
+          "position": [930,436],
+          "name": "体育馆",
+          "namepos": "l"
+        },
+        {
+          "position": [930,363],
+          "name": "明楼",
+          "namepos": "r"
+        },
+        {
+          "position": [930,289],
+          "name": "中兴大桥南",
+          "namepos": "r"
+        },
+        {
+          "position": [930,206],
+          "name": "大通桥",
+          "namepos": "t"
+        }
+      ],
+      "color": "#fcb23b"
+    },
+    {
+      "name": "四号线",
+      "stations": [
+        {
+          "position": [56,112],
+          "name": "慈城",
+          "namepos": "t"
+        },
+        {
+          "position": [121,112],
+          "name": "官山河",
+          "namepos": "b"
+        },
+        {
+          "position": [191,112],
+          "name": "长兴路",
+          "namepos": "t"
+        },
+        {
+          "position": [261,112],
+          "name": "金山路",
+          "namepos": "b"
+        },
+        {
+          "position": [336,112],
+          "name": "奥体中心",
+          "namepos": "t"
+        },
+        {
+          "position": [401,112],
+          "name": "洪塘中路",
+          "namepos": "b"
+        },
+        {
+          "position": [471,112],
+          "name": "洪大路",
+          "namepos": "t"
+        },
+        {
+          "position": [518,166],
+          "name": "庄桥火车站",
+          "namepos": "r"
+        },
+        {
+          "position": [518,237],
+          "name": "丽江路",
+          "namepos": "l"
+        },
+        {
+          "position": [518,306],
+          "name": "双东路",
+          "namepos": "r"
+        },
+        {
+          "position": [518,378],
+          "name": "翠柏里",
+          "namepos": "r"
+        },
+        {
+          "position": [518,446],
+          "name": "大卿桥",
+          "namepos": "bl"
+        },
+        {
+          "position": [518,520],
+          "name": "柳西",
+          "namepos": "l"
+        },
+        {
+          "position": [518,590],
+          "name": "宁波火车站",
+          "namepos": "l"
+        },
+        {
+          "position": [609,590],
+          "name": "兴宁桥西",
+          "namepos": "b"
+        },
+        {
+          "position": [689,590],
+          "name": "兴宁桥东",
+          "namepos": "t"
+        },
+        {
+          "position": [768,590],
+          "name": "白鹤",
+          "namepos": "t"
+        },
+        {
+          "position": [861,590],
+          "name": "儿童公园",
+          "namepos": "br"
+        },
+        {
+          "position": [1006,590],
+          "name": "矮柳",
+          "namepos": "r"
+        },
+        {
+          "position": [1006,650],
+          "name": "潘火路",
+          "namepos": "r"
+        },
+        {
+          "position": [1006,710],
+          "name": "嵩江东路",
+          "namepos": "l"
+        },
+        {
+          "position": [1006,777],
+          "name": "南高教园区",
+          "namepos": "bl"
+        },
+        {
+          "position": [1050,820],
+          "name": "金达南路",
+          "namepos": "bl"
+        },
+        {
+          "position": [1094,863],
+          "name": "小洋江",
+          "namepos": "tr"
+        },
+        {
+          "position": [1136,906],
+          "name": "东钱湖",
+          "namepos": "b"
+        }
+      ],
+      "color": "#a2c60b"
+    },
+    {
+      "name": "五号线",
+      "stations": [
+        {
+          "position": [81,855],
+          "name": "布政",
+          "namepos": "t"
+        },
+        {
+          "position": [135,855],
+          "name": "张家潭",
+          "namepos": "b"
+        },
+        {
+          "position": [189,855],
+          "name": "同德路",
+          "namepos": "t"
+        },
+        {
+          "position": [253,855],
+          "name": "石碶",
+          "namepos": "br"
+        },
+        {
+          "position": [359,855],
+          "name": "雅渡",
+          "namepos": "b"
+        },
+        {
+          "position": [514,855],
+          "name": "庙堰",
+          "namepos": "t"
+        },
+        {
+          "position": [666,855],
+          "name": "钟公庙",
+          "namepos": "b"
+        },
+        {
+          "position": [747,777],
+          "name": "鄞州区政府",
+          "namepos": "tl"
+        },
+        {
+          "position": [825,777],
+          "name": "钱湖南路",
+          "namepos": "t"
+        },
+        {
+          "position": [1006,777],
+          "name": "南高教园区",
+          "namepos": "bl"
+        },
+        {
+          "position": [1094,777],
+          "name": "下应路",
+          "namepos": "t"
+        },
+        {
+          "position": [1165,777],
+          "name": "大洋江",
+          "namepos": "r"
+        },
+        {
+          "position": [1165,711],
+          "name": "泗港",
+          "namepos": "l"
+        },
+        {
+          "position": [1165,651],
+          "name": "曹隘",
+          "namepos": "r"
+        },
+        {
+          "position": [1165,589],
+          "name": "柳隘",
+          "namepos": "l"
+        },
+        {
+          "position": [1165,520],
+          "name": "海晏北路",
+          "namepos": "br"
+        },
+        {
+          "position": [1165,447],
+          "name": "民安东路",
+          "namepos": "l"
+        },
+        {
+          "position": [1165,388],
+          "name": "会展中心",
+          "namepos": "r"
+        },
+        {
+          "position": [1098,318],
+          "name": "院士路",
+          "namepos": "bl"
+        },
+        {
+          "position": [1098,266],
+          "name": "盎孟港",
+          "namepos": "r"
+        },
+        {
+          "position": [1098,124],
+          "name": "三官堂",
+          "namepos": "tl"
+        },
+        {
+          "position": [1098,57],
+          "name": "兴庄路",
+          "namepos": "t"
+        }
+      ],
+      "color": "#24419f"
+    }
+  ]
+}
